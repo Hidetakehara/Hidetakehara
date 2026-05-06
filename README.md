@@ -1,18 +1,32 @@
-# Anderson Takehara ⚾
+# Anderson Takehara
 Engeheiro de Telecomunicações | Estudante de Engenharia de Software
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/anderson-takehara-959889211">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
-  </a>
-  <a href="mailto:takehara.anderson@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/anderson-takehara-959889211">
+  <img 
+    align="left" 
+    alt="LinkedIn" 
+    title="LinkedIn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+  />
+</a>
+<a href="mailto:takehara.anderson@gmail.com">
+  <img 
+    align="left" 
+    alt="Gmail" 
+    title="Gmail" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+  />
+</a>
+<br/>
+<br/>
 
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -80,5 +94,9 @@ Engeheiro de Telecomunicações | Estudante de Engenharia de Software
 />
 <br/>
 <br/>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hidetakehara&theme=radical)](https://git.io/streak-stats)
+
 
 
