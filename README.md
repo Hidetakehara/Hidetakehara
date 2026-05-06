@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Anderson's GitHub stats](https://seu-projeto.vercel.app/api?username=anderson&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHidetakeharaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
