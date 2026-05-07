@@ -1,0 +1,7 @@
+# Forçar CSS a ser detectado
+*.css linguist-detectable=true
+*.css linguist-language=CSS
+
+# Forçar Kotlin a ser detectado
+*.kt linguist-detectable=true
+*.kt linguist-language=Kotlin
