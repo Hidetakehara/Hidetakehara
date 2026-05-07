@@ -98,5 +98,8 @@ Engeheiro de Telecomunicações | Estudante de Engenharia de Software
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hidetakehara&theme=radical)](https://git.io/streak-stats)
 
+![Hidetakehara's GitHub stats](https://github-readme-stats-39q4vovt6-hidetakeharas-projects.vercel.app/api?username=Hidetakehara&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-39q4vovt6-hidetakeharas-projects.vercel.app/api/top-langs/?username=Hidetakehara&layout=compact&theme=radical)
 
 
