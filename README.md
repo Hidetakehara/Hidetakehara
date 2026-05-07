@@ -72,7 +72,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
 <br/>
 
 <div align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hidetakehara&theme=tokyonight&column=9&margin-w=10&margin-h=10" alt="GitHub Trophies" width="900"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hidetakehara&theme=tokyonight&column=9&margin-w=10&margin-h=10" alt="GitHub Trophies" width="800"/>
 </div>
 
 <br/>
