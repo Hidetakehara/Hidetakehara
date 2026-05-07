@@ -58,6 +58,6 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
 <div align="center">
 
   <!-- Ícone de Status -->
-<img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="750" style="display:inline-block;"/>
+<img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="650" style="display:inline-block;"/>
 
 </div>
