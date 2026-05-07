@@ -1,5 +1,5 @@
 # Anderson Takehara
-Engeheiro de Telecomunicações | Estudante de Engenharia de Software
+Engenheiro de Telecomunicações | Estudante de Engenharia de Software
 
 <a href="https://www.linkedin.com/in/anderson-takehara-959889211">
   <img 
@@ -23,76 +23,8 @@ Engeheiro de Telecomunicações | Estudante de Engenharia de Software
 </a>
 <br/>
 <br/>
-
-
-
-### Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jupyter Notebook" 
-    title="Jupyter Notebook"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-/>
-<br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hidetakehara&theme=radical)](https://git.io/streak-stats)
+| <div align="center">**Linguagens e Tecnologias**</div> | <div align="center">**Status GitHub**</div> |
+|--------------------------------------------------------|---------------------------------------------|
+| **Frontend:** <br/> <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <br/><br/> **Backend / Lógica:** <br/> <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"/> <br/><br/> **Ferramentas:** <br/> <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> | [![GitHub Streak](https://streak-stats.demolab.com?user=Hidetakehara&theme=radical)](https://git.io/streak-stats)<br/>
