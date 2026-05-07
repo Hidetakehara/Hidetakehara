@@ -44,10 +44,7 @@
 
 <div>
 
-| <div align="center"></div> | 
-|-------------------------------------------------------- | 
-| Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e redes ópticas. Atuo como pesquisador e responsável por laboratórios de calibração de equipamentos ópticos e de ensaios em sistemas de telecomunicações. Atualmente, iniciei meus estudos em desenvolvimento de software com o objetivo de ampliar meus conhecimentos e direcionar minha carreira para essa área, unindo minha experiência em telecomunicações à criação de soluções digitais inovadoras. |
-</div>
+Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e redes ópticas. Atuo como pesquisador e responsável por laboratórios de calibração de equipamentos ópticos e de ensaios em sistemas de telecomunicações. Atualmente, iniciei meus estudos em desenvolvimento de software com o objetivo de ampliar meus conhecimentos e direcionar minha carreira para essa área, unindo minha experiência em telecomunicações à criação de soluções digitais inovadoras. 
 
 <br/>
 
@@ -74,7 +71,7 @@
 
 <br/>
 
-<div align="center">
+<div align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=Hidetakehara&theme=tokyonight&column=9&margin-w=10&margin-h=10" alt="GitHub Trophies" width="900"/>
 </div>
 
