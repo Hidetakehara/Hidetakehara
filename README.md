@@ -49,22 +49,15 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
 
 | <div align="center">**Linguagens e Tecnologias**</div> | <div align="center"> </div> |
 |--------------------------------------------------------|---------------------------------------------|
-| **Frontend:** <br/> <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <br/><br/> **Backend / Lógica:** <br/> <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"/> <br/><br/> **Ferramentas:** <br/> <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=radical" alt="Linguagens mais usadas" width="300"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hidetakehara&theme=tokyo-night" alt="Gráfico de Contribuições" width="800"/><br/>
+| **Frontend:** <br/> <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <br/><br/> **Backend / Lógica:** <br/> <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"/> <br/><br/> **Ferramentas:** <br/> <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=radical" alt="Linguagens mais usadas" width="500"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hidetakehara&theme=tokyo-night" alt="Gráfico de Contribuições" width="800"/><br/>
 
-</div>
 
+</br>
 
 
 <div align="center">
 
   <!-- Ícone de Status -->
-  <img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" style="display:inline-block;"/>
-
-  <!-- Gráfico de Contribuições -->
-<div align="center">
-  <img src="https://github.com/Hidetakehara/Hidetakehara/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
+<img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="750" style="display:inline-block;"/>
 
 </div>
-
