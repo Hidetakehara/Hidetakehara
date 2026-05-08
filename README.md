@@ -2,7 +2,7 @@
 <!-- Bloco de Cabeçalho -->
 
 # **Anderson Takehara**
-### **Engenheiro de Telecomunicações | Estudante de Engenharia de Software | P&D**
+### **Engenheiro de Telecomunicações | Estudante de Engenharia de Software | Trabalhando com P&D**
 
 <!-- Bloco de Links de contato -->
 
