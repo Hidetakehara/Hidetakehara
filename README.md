@@ -73,7 +73,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
       <img alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
     </td>
     <td style="border:none; text-align:center; padding:10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=tokyonight" alt="Linguagens mais usadas" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=tokyonight" alt="Linguagens mais usadas" width="500"/>
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
       <img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="1000"/>
     </td>
     <td style="border:none; padding:10px; text-align:center;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=tokyonight" width="800"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=tokyonight" width="1000"/>
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hidetakehara&theme=tokyonight&column=9&margin-w=10&margin-h=10" alt="GitHub Trophies" width="900"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hidetakehara&theme=tokyonight&column=9&margin-w=10&margin-h=10" alt="GitHub Trophies" width="1200"/>
 </div>
 
 <br/>
