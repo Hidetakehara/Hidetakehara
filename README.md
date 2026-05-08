@@ -52,11 +52,34 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
 
 <div align="center">
 
-| <div align="left">**Linguagens e Tecnologias**</div> | <div align="center"> </div> |
-|--------------------------------------------------------|---------------------------------------------|
-| **Frontend:** <br/> <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <br/><br/> **Backend / Lógica:** <br/> <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"/> <br/><br/> **Ferramentas:** <br/> <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> <img alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>| <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=tokyonight" alt="Linguagens mais usadas" width="400"/>|
+<table border="0" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; vertical-align:top; padding:10px;">
+      <div align="left"><b>Linguagens e Tecnologias</b></div>
+      <br/>
+      <b>Frontend:</b><br/>
+      <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      <br/><br/>
+      <b>Backend / Lógica:</b><br/>
+      <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+      <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"/>
+      <br/><br/>
+      <b>Ferramentas:</b><br/>
+      <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+      <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+      <img alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+    </td>
+    <td style="border:none; text-align:center; padding:10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=tokyonight" alt="Linguagens mais usadas" width="400"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 <br/>
 
@@ -64,10 +87,21 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
 
 <div align="center">
 
-| <div align="left">**Stats**</div> | <div align="center"> </div> 
-|-------------------------------------------------------- | ---------------------------------------------|
- | <img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="1000" style="display:inline-block;"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=tokyonight" width="800"/> | 
+<table border="0" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:10px; vertical-align:top;">
+      <div align="left"><b>Stats</b></div>
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="1000"/>
+    </td>
+    <td style="border:none; padding:10px; text-align:center;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=tokyonight" width="800"/>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 <br/>
 
