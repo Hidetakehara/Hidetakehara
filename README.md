@@ -90,7 +90,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
 <table border="0" style="border:none; border-collapse:collapse;">
   <tr>
     <td style="border:none; padding:10px; vertical-align:top;">
-      <div align="left"><b>Stats</b></div>
+      <div align="left"><b>Estatísticas</b></div>
       <br/>
       <img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="1000"/>
     </td>
