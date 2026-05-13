@@ -96,7 +96,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
       <img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
     </td>
     <td style="border:none; padding:10px; text-align:center;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=tokyo-night" width="500"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=tokyonight" width="500"/>
     </td>
   </tr>
 </table>
