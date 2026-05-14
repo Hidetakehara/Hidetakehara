@@ -74,7 +74,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
       <img alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
     </td>
     <td style="border:none; text-align:center; padding:10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=tokyonight" alt="Linguagens mais usadas" width="500"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hidetakehara&theme=dracula" alt="Linguagens mais usadas" width="500"/>
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@ Sou Engenheiro de Telecomunicações com sólida experiência em fotônica e red
       <img src="https://streak-stats.demolab.com?user=Hidetakehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
     </td>
     <td style="border:none; padding:10px; text-align:center;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=tokyonight" width="500"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidetakehara&theme=dracula" width="500"/>
     </td>
   </tr>
 </table>
